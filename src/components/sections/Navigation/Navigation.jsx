@@ -9,7 +9,7 @@ function Navigation() {
         <a href="#">
           <img
             src={Yadora}
-            alt="Yadora logo"
+            alt="Jodora logo"
             className="inline-block mr-8 h-7"
           />
         </a>
